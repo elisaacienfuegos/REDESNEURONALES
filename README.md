@@ -1,7 +1,5 @@
-# REDES NEURONALES
-Trabajo final de Redes Neuronales: Predicción de la satisfacción de un cliente en Estados Unidos
-
-# Customer Satisfaction Prediction using Deep Learning
+# NEURAL NETWORKS
+# Final proyect: Customer Satisfaction Prediction in the United States using Deep Learning
 
 ## 1. Introduction
 
